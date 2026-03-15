@@ -1,2 +1,2 @@
-# Scalable-RAG-Enterprise-Patterns
-Production-ready architectures for deploying LLMs and Retrieval-Augmented Generation.
+# Scalable RAG Enterprise Patterns
+Production-grade architectures for RAG systems using scalable vector indexing.
